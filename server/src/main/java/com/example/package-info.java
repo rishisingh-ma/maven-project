@@ -1,5 +1,5 @@
-/*this is exmaple
-*file
+/**
+*this is exmaple file.
 */
 package com.example;
 
